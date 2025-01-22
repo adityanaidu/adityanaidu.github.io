@@ -1,5 +1,5 @@
-baseurl = "http://www.nulloz.com"
-title = "nulloz"
+baseurl = "https://www.nulloz.com"
+title = "Aditya"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -16,11 +16,13 @@ shortname = "Andy"
 style = "github-dark"
 
 [params]
-  author = "Aditya"
-  info = "Senior Software Engineer"
+  author = "Aditya Naidu"
+  info = """Senior Software Engineer
+
+New York City Metro Area"""
   description = "Aditya's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  #avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
