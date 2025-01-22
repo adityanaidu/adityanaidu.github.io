@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-01-18T15:17:53-05:00
 title = "Custom Domain for Static Website on Github Pages"
 #description = "How to"
@@ -31,5 +31,3 @@ In your github repo create a file named CNAME containing only the CNAME you just
 
 ## Test!
 On your browser go to https://\<CNAME\>. This should display what you added to your index.html page. Update the TTL of the CNAME record in AWS Route 53 to a bigger value.
-
-[Open PDF](/images/microeconomics-primer.pdf)
