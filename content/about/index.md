@@ -4,4 +4,5 @@ draft = false
 title = 'About'
 +++
 
-Write something profound here
+I live in the New York Metro Area. Checkout my [resume](/images/anaidu-resume.pdf) for more details.
+
