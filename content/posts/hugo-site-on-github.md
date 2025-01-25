@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-01-25T10:35:48-05:00
 title = "Create a Hugo Site on Github"
 description = ""
