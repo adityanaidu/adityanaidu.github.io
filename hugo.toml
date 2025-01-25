@@ -1,5 +1,5 @@
 baseurl = "https://www.nulloz.com"
-title = "Aditya"
+title = "nulloz"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
